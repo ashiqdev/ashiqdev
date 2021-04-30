@@ -1,4 +1,4 @@
-### Hi there, Ashiqur Rahman 👋
+### Hi there, I'm Ashiqur Rahman 👋
 
 
 ## I'm a Fullstack Software Developer!!

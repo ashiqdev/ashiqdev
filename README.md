@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read and write blogs
+- ⚡ Fun fact: I love to read books and write blogs
 
 
 ### Connect with me:

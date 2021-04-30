@@ -59,7 +59,7 @@
 
 </details>
 
-[twitter]: https://www.facebook.com/Javafreak/
+[twitter]: https://twitter.com/ashikduit
 [facebook]: https://www.facebook.com/Javafreak/
 [linkedin]: https://www.linkedin.com/in/ashikcse/
 [webdevplaylist]: https://developer.mozilla.org/en-US/
